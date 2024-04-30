@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.nav-title {
+  color: yellow;
+}
+.img {
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  background-color: lightgoldenrodyellow;
+}
+img {
+  border: 5px solid lightcoral;
+  border-radius: 7px;
+  width: 300px;
+}
